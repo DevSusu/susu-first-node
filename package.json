@@ -1,0 +1,29 @@
+{
+  "name": "susu_node_first",
+  "version": "0.0.1",
+  "description": "A sample Node.js by DevSusu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.0",
+    "ejs": "2.3.3",
+    "express": "^4.13.3",
+    "multer": "^1.1.0"
+  },
+  "engines": {
+    "node": "4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevSusu/susu-first-node"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
